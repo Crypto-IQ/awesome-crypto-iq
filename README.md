@@ -2,6 +2,8 @@
 
 A curated list of awesome blockchain, cryptocurrency and fintech resources. Early stage work in progress.
 
+**Note: See [awesome-cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency) for the latest version of this list.**
+
 # Contents
 
 * [General Resources](#general-resources)
